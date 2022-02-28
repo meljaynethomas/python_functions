@@ -82,7 +82,7 @@ if game_outcome == 'W':
 elif game_outcome == 'L':
     print(lose_message)
 else:
-    print(draw_message)cd 
+    print(draw_message)
 
 
 
