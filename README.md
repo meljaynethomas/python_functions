@@ -16,7 +16,7 @@ The user will play against the computer at this game. You should design a progra
 • Convert the computer’s choice. 0 becomes Rock; 1 becomes Paper; 2 becomes Scissors
 • Compare the user’s choice with the computer’s choice to display a message indicating whether
 the user won, lost or drew against the computer
-• Showcasewhatyouhavelearnedaboutconditionalstatementsandcreateyourownfunctions
+• Showcase what you have learned about conditional statements and create your own functions
 
 Note:
 Rock smashes Scissors, Paper wraps Rock, Scissors cut Paper!
