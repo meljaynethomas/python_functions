@@ -1,5 +1,3 @@
-Exercise 14 – Functions Objective
-
 • To practise creating functions
 • To revisit conditional structures
 • To use built-in functions
